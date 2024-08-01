@@ -1,5 +1,5 @@
 Hamzakk-1/hkktech1
-a bioechnologit and  bioinformatician 
+a biotechnologist and  bioinformatician 
 ## Installation
 Instructions on how to install and set up your project.
 ```bash
